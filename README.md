@@ -2,7 +2,7 @@
 We Request You To Follow and Subscribe Our Channel https://youtube.com/forestarmy 
 
 
-## How to Run
+# How to Run
 
  Make the script executable:
    ```bash
@@ -10,7 +10,7 @@ We Request You To Follow and Subscribe Our Channel https://youtube.com/forestarm
 
 sudo ./aircrack_auto.sh
 
-sudo bash aircrack_auto.sh```
+sudo bash aircrack_auto.sh
 
 
 # Disclaimer
