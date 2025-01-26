@@ -1,7 +1,6 @@
 # wifi
 We Request You To Follow and Subscribe Our Channel https://youtube.com/forestarmy 
 
-# Aircrack Automation Script
 
 ## How to Run
 
@@ -13,11 +12,12 @@ sudo ./aircrack_auto.sh
 
 sudo bash aircrack_auto.sh
 
-# Disclaimer  
+
+# Disclaimer
 
 This tool is created **strictly for educational and ethical purposes only**. It is intended to help users identify and understand vulnerabilities in wireless networks so they can secure their own systems. **Unauthorized use of this tool on networks you do not own or have explicit permission to test is illegal and punishable by law.**
 
-# Warning  
+## Warning  
 
 - **Unauthorized Access**: Using this tool to access or manipulate networks without proper authorization violates the law. Only use this tool on networks you own or have explicit written permission to test.  
 - **Legal Consequences**: Misuse of this tool may lead to severe penalties, including fines, imprisonment, or both, as defined by local and international laws.  
