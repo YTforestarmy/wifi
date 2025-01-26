@@ -1,6 +1,18 @@
 # wifi
 We Request You To Follow and Subscribe Our Channel https://youtube.com/forestarmy 
 
+# Aircrack Automation Script
+
+## How to Run
+
+ Make the script executable:
+   ```bash
+   chmod +x aircrack_auto.sh
+
+sudo ./aircrack_auto.sh
+
+sudo bash aircrack_auto.sh
+
 # Disclaimer  
 
 This tool is created **strictly for educational and ethical purposes only**. It is intended to help users identify and understand vulnerabilities in wireless networks so they can secure their own systems. **Unauthorized use of this tool on networks you do not own or have explicit permission to test is illegal and punishable by law.**
